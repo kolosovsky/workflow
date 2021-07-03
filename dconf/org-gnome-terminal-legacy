@@ -1,0 +1,29 @@
+[keybindings]
+new-tab='<Primary>t'
+find-previous='<Primary>h'
+copy='<Primary><Shift>c'
+prev-tab='<Ctrl><Shift>braceleft'
+new-window='<Primary><Shift>n'
+close-tab='<Primary>w'
+move-tab-left='<Primary><Shift>Page_Up'
+find='<Primary>f'
+close-window='<Primary>q'
+find-next='<Primary>g'
+paste='<Primary><Shift>v'
+find-clear='<Primary>j'
+select-all='<Primary>a'
+next-tab='<Ctrl><Shift>braceright'
+
+[profiles:/:2344e297-075a-4660-847b-4cd5245a697c]
+visible-name='kolos'
+
+[profiles:]
+list=['2344e297-075a-4660-847b-4cd5245a697c']
+default='2344e297-075a-4660-847b-4cd5245a697c'
+
+[profiles:/:06d2ae76-8ee6-4dc1-b749-5dc0993c9faf]
+visible-name='kolos (Copy)'
+
+[/]
+schema-version=uint32 3
+theme-variant='system'

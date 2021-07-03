@@ -1,0 +1,9 @@
+source ~/.vimrc
+
+" you can use <M-*> on macOS for mapping Command key combinations https://youtrack.jetbrains.com/issue/VIM-758#focus=streamItem-27-3148154.0-0
+" Cmd shortcuts don't work as Ctrl https://youtrack.jetbrains.com/issue/VIM-136 https://youtrack.jetbrains.com/issue/VIM-1529
+" so I am trying to emulate some basic functionality manually
+nnoremap <M-m> <C-m>
+nnoremap <M-u> <C-u>
+
+
