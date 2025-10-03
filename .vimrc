@@ -132,3 +132,6 @@ inoremap <M-Enter> <Esc>mpo<Esc>`pa
 
 vnoremap h "_x
 nnoremap hh V"_x
+
+nnoremap <BS> X
+vnoremap <BS> x
